@@ -8,4 +8,5 @@
 https://hacks-ai.ru/championships/758295
 
 Author - Emil Gimranov
+
 Hackaton HacksAI2022. Image classification task
